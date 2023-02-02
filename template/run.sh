@@ -8,4 +8,4 @@ chmod +x template-master/template/editor/script.sh
 chmod +x template-master/template/mainscript/script.sh
 
 #to build image and deploy to kubernetes
-./template-master//template/mainscript/script.sh
+./template-master/template/mainscript/script.sh
